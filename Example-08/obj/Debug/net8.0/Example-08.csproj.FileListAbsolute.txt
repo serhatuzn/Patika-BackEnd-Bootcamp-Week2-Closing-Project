@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\bin\Debug\net8.0\Example-08.exe
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\bin\Debug\net8.0\Example-08.deps.json
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\bin\Debug\net8.0\Example-08.runtimeconfig.json
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\bin\Debug\net8.0\Example-08.dll
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\bin\Debug\net8.0\Example-08.pdb
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.AssemblyInfo.cs
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.sourcelink.json
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.dll
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\refint\Example-08.dll
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.pdb
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\Example-08.genruntimeconfig.cache
+C:\Users\User\Desktop\Week2 Kapanış\Example-08\obj\Debug\net8.0\ref\Example-08.dll
